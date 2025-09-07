@@ -1,0 +1,11 @@
+# .env.local fájl tartalma (másold át és nevezd át .env.local-ra)
+
+# Mailchimp API konfiguráció
+MAILCHIMP_API_KEY=your_real_api_key_here-us21
+MAILCHIMP_LIST_ID=your_real_list_id_here
+
+# Példa:
+# MAILCHIMP_API_KEY=abc123def456ghi789jkl012mno345pq-us21  
+# MAILCHIMP_LIST_ID=abc123def4
+
+# FIGYELEM: Soha ne commitold a .env.local fájlt a git-be!
